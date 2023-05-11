@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(174, 233, 243);
+}
+
+#D1{
+    width: 500PX;
+    height: 300PX;
+    margin: 10PX;
+    padding: 30px;
+    border: 5px solid rgb(179, 7, 78);
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+.T1{
+    width: 500px;
+    margin: 10px;
+}
+
+th, td{
+    padding: 10px;
+}
+
+th{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 5px solid darkslateblue;
+    border-top: 5px solid darkslateblue;
+}
+
+td{
+    text-align: center;
+}
+
+tr.even {
+    background-color: brown;
+    
+}
+
+tr:hover{
+    background-color: bisque;
+    color: blueviolet;
+}

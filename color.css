@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(245, 97, 201);
+    letter-spacing: 0.1em;
+}
+
+button{
+    background-color: rgb(61, 33, 221);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 80px;
+    border-radius: 2px;
+    cursor: pointer;
+}
